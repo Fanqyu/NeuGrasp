@@ -132,7 +132,7 @@ bash train.sh 0
 
 ### 🔍 Testing
 
-We provide pretrained weights for direct evaluation. Please download the [checkpoint](https://drive.google.com/file/d/1k-Cy4NO2isCBYc3az-34HEdcNxDptDgU/view?usp=share_link) and place it in:
+We provide pretrained weights for direct evaluation. Please download the [checkpoint](https://drive.google.com/file/d/1SRkIdJTcQBCMHZ7gISGVSazb1YBtLC13/view?usp=sharing) and place it in:
 
 ```
 src/neugrasp/ckpt/
