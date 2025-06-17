@@ -199,5 +199,5 @@ We would like to thank the authors of [VGN](https://github.com/ethz-asl/vgn) and
 
 For questions or feedback, feel free to open an issue or reach out:
 
-* Qingyu Fan: `fanqingyu23@mails.ucas.ac.cn`
+* Qingyu Fan: `fanqingyu23@mails.ucas.edu.cn`
 * Yinghao Cai: `yinghao.cai@ia.ac.cn`
